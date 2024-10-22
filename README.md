@@ -18,8 +18,8 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=brenocsar&show_icons=true&locale=en" alt="brenocsar" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brenocsar&show_icons=true&locale=en&layout=compact" alt="brncsar" />
+  <img src="https://github-readme-stats.vercel.app/api?username=brncsar&show_icons=true&locale=en" alt="brenocsar" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brncsar&show_icons=true&locale=en&layout=compact" alt="brncsar" />
 </p>
 
 <h3 align="left">Projects:</h3>
