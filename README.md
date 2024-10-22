@@ -1,6 +1,6 @@
 <h3 align="center">A computer science student with a passion for programming from Brazil!</h3>
 
-<img src="https://your-banner-url-here.com" alt="Banner" align="center"/>
+<img src="https://plus.unsplash.com/premium_photo-1673688152102-b24caa6e8725?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8bWF0cml4fGVufDB8fDB8fHww" alt="Banner" align="center"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
