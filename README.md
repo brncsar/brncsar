@@ -19,13 +19,13 @@
 <h3 align="left">GitHub Stats:</h3>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=brenocsar&show_icons=true&locale=en" alt="brenocsar" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brenocsar&show_icons=true&locale=en&layout=compact" alt="brenocsar" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brenocsar&show_icons=true&locale=en&layout=compact" alt="brncsar" />
 </p>
 
 <h3 align="left">Projects:</h3>
 <ul>
-  <li><a href="https://github.com/brenocsar/project1">Project 1</a> - Brief description</li>
-  <li><a href="https://github.com/brenocsar/project2">Project 2</a> - Brief description</li>
+  <li><a href="https://github.com/brncsar/project1">Project 1</a> - Brief description</li>
+  <li><a href="https://github.com/brncsar/project2">Project 2</a> - Brief description</li>
 </ul>
 
 <!-- Badge para seguidores -->
