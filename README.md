@@ -22,9 +22,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brncsar&show_icons=true&locale=en&layout=compact" alt="brncsar" />
 </p>
 
-<h3 align="left">Projects:</h3>
 <ul>
-  <li><a href="https://github.com/brncsar/project1">Project 1</a> - Brief description</li>
+  <li><a href="https://github.com/brncsar/pyclimatempo.git">Project 1</a> - Brief description</li>
+    ![prin](https://github.com/user-attachments/assets/9376df0c-a09c-41b6-926d-960853786f23)
+
+  
   <li><a href="https://github.com/brncsar/project2">Project 2</a> - Brief description</li>
 </ul>
 
