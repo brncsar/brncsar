@@ -23,8 +23,8 @@
 </p>
 
 <ul>
-  <li><a href="https://github.com/brncsar/pyclimatempo.git">Project 1</a> - Brief description</li>
-    ![prin](https://github.com/user-attachments/assets/9376df0c-a09c-41b6-926d-960853786f23)
+  <li><a href="https://github.com/brncsar/pyclimatempo.git">Project ConsultWeather</a> - Code queries the Climatempo api and returns weather data</li>
+    <img src="https://github.com/user-attachments/assets/9376df0c-a09c-41b6-926d-960853786f23"/>
 
   
   <li><a href="https://github.com/brncsar/project2">Project 2</a> - Brief description</li>
