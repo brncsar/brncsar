@@ -1,6 +1,6 @@
 <h3 align="center">A computer science student with a passion for programming from Brazil!</h3>
 
-<img src="https://plus.unsplash.com/premium_photo-1673688152102-b24caa6e8725?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8bWF0cml4fGVufDB8fDB8fHww" alt="Banner" align="center"/>
+<img src="https://repository-images.githubusercontent.com/293594764/baaa9580-7f68-11eb-8e18-e956d8b8b6d8" alt="Banner" align="center"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -19,6 +19,7 @@
 <h3 align="left">GitHub Stats:</h3>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=brncsar&show_icons=true&locale=en" alt="brenocsar" />
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brncsar&show_icons=true&locale=en&layout=compact" alt="brncsar" />
 </p>
 
@@ -27,7 +28,9 @@
     <img src="https://github.com/user-attachments/assets/9376df0c-a09c-41b6-926d-960853786f23"/>
 
   
-  <li><a href="https://github.com/brncsar/project2">Project 2</a> - Brief description</li>
+  <li><a href="https://github.com/brncsar/a3flutter.git">Project Academy App</a> - A project for a college assignment and studies</li>
+    <img src="https://github.com/user-attachments/assets/ea73a10d-a305-41f6-96bd-807093fa5f3b"/>
+  
 </ul>
 
 <!-- Badge para seguidores -->
